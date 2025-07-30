@@ -11,6 +11,7 @@
 ### 第二部分：并发编程
 
 - [HashMap](HashMap.md)
+- [HashMap](HashMap.md)
 
 ### 第三部分：算法与模型
 
